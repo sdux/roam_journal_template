@@ -16,6 +16,7 @@ A reference section is included with journaling prompts and suggestions on how t
 ![template in roam](https://github.com/sdux/roam_journal_template/blob/main/roam__journal_template.png)
 
 Template in Roam
+
 ![template functionality example](https://github.com/sdux/roam_journal_template/blob/main/roam_morning_reflection_journal_template.gif)
 
 Copy the markdown below into a new page in Roam and favorite as your journal template.  You can then reference the template with ';;' inside Roam.
