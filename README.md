@@ -86,3 +86,4 @@ Copy the markdown below into a new page in Roam and favorite as your journal tem
                 - I am conquering my illness; I am defeating it steadily each day.
                 - I am at peace with all that has happened, is happening, and will happen.
 ```
+[www.aduxbury.com](https://aduxbury.com/)
