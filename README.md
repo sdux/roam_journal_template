@@ -3,7 +3,17 @@
 
 #### Inspired by the 5 Min Journal.
 
+When I started using Roam, I was looking for simple templates after popular journaling methods.
 
+Roam recently released an update adding support for building templates and quickly inserting them into your daily notes page.
+The templates work super well for building and selecting different journaling techniques you'd like to try.
+
+I've built a simple morning reflection journal modeled after the 5 min journal technique which Tim Ferris uses.
+
+See the video below for an exmaple of functionality.  The static image is how it will appear in Roam.  
+A reference section is included with journaling prompts and suggestions on how to be most effective.
+
+![template overview](https://github.com/sdux/roam_journal_template/blob/main/roam_morning_reflection_journal_template.gif)
 
 ![template overview](https://github.com/sdux/roam_journal_template/blob/main/roam_morning_reflection_journal_template.gif)
 
