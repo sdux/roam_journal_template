@@ -1,7 +1,7 @@
 # roam_journal_template
 Roam Research Morning Reflection / Mindfulness Journal Template
 
-
+```
 - [[roam/templates]] Daily Reflection
     - **Morning and Evening Reflection (5 min journal)**
         - #MorningReflection
@@ -63,3 +63,4 @@ Roam Research Morning Reflection / Mindfulness Journal Template
                 - Though these times are difficult, they are only a short phase of life.
                 - I am conquering my illness; I am defeating it steadily each day.
                 - I am at peace with all that has happened, is happening, and will happen.
+```
