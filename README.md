@@ -13,6 +13,8 @@ Below is a simple morning reflection journal modeled after the 5 min journal tec
 See the video below for an exmaple of functionality.  The static image is how it will appear in Roam.  
 A reference section is included with journaling prompts and suggestions on how to be most effective.
 
+This is how the template will appear in Roam:
+
 ![template in roam](https://github.com/sdux/roam_journal_template/blob/main/roam__journal_template.png)
 
 Template in Roam
