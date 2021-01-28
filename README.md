@@ -1,5 +1,9 @@
 # roam_journal_template
-Roam Research Morning Reflection / Mindfulness Journal Template
+### Roam Research Morning Reflection / Mindfulness Journal Template
+
+Inspired by the 5 Min Journal.
+
+![template overview](https://github.com/sdux/roam_journal_template/blob/main/roam_morning_reflection_journal_template.gif)
 
 ```
 - [[roam/templates]] Daily Reflection
