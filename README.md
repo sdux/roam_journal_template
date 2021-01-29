@@ -8,10 +8,13 @@ Looking for simple templates after popular journaling methods?
 Roam recently released an update adding support for building templates and quickly inserting them into your daily notes page.
 The templates work well for building and selecting different journaling techniques you'd like to try.
 
+
 Below is a simple morning reflection journal modeled after the 5 min journal technique which Tim Ferris uses.
+
 
 See the video below for an exmaple of functionality.  The static image is how it will appear in Roam.  
 A reference section is included with journaling prompts and suggestions on how to be most effective.
+
 
 This is how the template will appear in Roam:
 
@@ -86,4 +89,6 @@ Copy the markdown below into a new page in Roam and favorite as your journal tem
                 - I am conquering my illness; I am defeating it steadily each day.
                 - I am at peace with all that has happened, is happening, and will happen.
 ```
+
 [www.aduxbury.com](https://aduxbury.com/)
+
